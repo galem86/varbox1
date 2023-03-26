@@ -52,7 +52,7 @@ public class Main {
         var employee2 = employee + humen;
         System.out.println("Если в компании работает" + employee2 + "человек");
         var time2 = time / employee2;
-        System.out.println("то всего" + time2 + "часов работы может быть поделено между сотрудниками");
+        System.out.println("То всего" + time2 + "часов работы может быть поделено между сотрудниками");
 
 
 
